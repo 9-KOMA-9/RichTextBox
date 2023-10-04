@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.Form1.resources
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\bin\Debug\RichTextBoxKontrola.exe.config
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\bin\Debug\RichTextBoxKontrola.exe
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\bin\Debug\RichTextBoxKontrola.pdb
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.exe
+C:\Users\ucenik\source\repos\RichTextBoxKontrola\obj\Debug\RichTextBoxKontrola.pdb
